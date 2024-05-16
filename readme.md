@@ -1,0 +1,1 @@
+Git query language isn't a formalized or distinct language like SQL but refers to the syntax and commands used within Git to search and filter through repositories, commits, branches, and other elements. Here are some common ways to query information in Git
